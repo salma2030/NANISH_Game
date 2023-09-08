@@ -11,3 +11,5 @@ It is card memory game which combines between Alhasa culture and traditional Sau
 # Game Engines
 Construct2
 
+# Additional information
+The repo includes a demo for NANISH. 
