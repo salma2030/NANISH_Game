@@ -12,4 +12,4 @@ It is card memory game which combines between Alhasa culture and traditional Sau
 Construct2
 
 # Additional information
-The repo includes a demo for NANISH. 
+The repo includes a demo for NANISH.
